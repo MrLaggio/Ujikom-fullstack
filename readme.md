@@ -45,12 +45,13 @@ Dalam project ini terdapat beberapa entitas utama yang berhubungan satu sama lai
 
 4. axios
 
-    Dotenv untuk mengatur variabel lingkungan
+    Axios untuk menghubungkan antara frontend dan backend
+   
     bash
-    npm i dotenv
+    npm i axios
     
 
-5. sequelize
+6. sequelize
 
     Sebagai Orm yang dipakai
 
@@ -59,7 +60,7 @@ Dalam project ini terdapat beberapa entitas utama yang berhubungan satu sama lai
     
 
 
-6. nodemon
+7. nodemon
 
     jalankan dengan mengetikan perintah (nodemon namaFile)
 
