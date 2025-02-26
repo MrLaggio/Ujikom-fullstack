@@ -81,8 +81,23 @@ Dalam project ini terdapat beberapa entitas utama yang berhubungan satu sama lai
 
 <br>
 
-# RELASI TABLE
-<img src="./img/relasi_rental_photography.png">
+# ERD
+<img src="ERD.png">
+
+<br>
+
+# CLASS DIAGRAM
+<img src="class_diagram.png">
+
+<br>
+
+# USECASE
+<img src="Usecase.png">
+
+<br>
+
+# RELATION TABLE
+<img src="relastion_table.png">
 
 <br>
 
