@@ -45,7 +45,7 @@ Dalam project ini terdapat beberapa entitas utama yang berhubungan satu sama lai
 
 4. axios
 
-    Axios untuk menghubungkan antara frontend dan backend
+    Axios untuk menghubungkan backend ke frontend
    
     bash
     npm i axios
