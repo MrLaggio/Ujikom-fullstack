@@ -1,0 +1,1 @@
+Nih jadi dikit lah owkowkwo
